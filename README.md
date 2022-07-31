@@ -1,6 +1,5 @@
 # NT3-GUI-System
-This is a Graphical User Interface to run and visualize the output for NT3 model. 
-git clone https://github.com/ECP-CANDLE/Benchmarks.git
+This is a Graphical User Interface to run and visualize the output for NT3 model.  git clone https://github.com/ECP-CANDLE/Benchmarks.git
 . /software/anaconda3/bin/activate
 cd Benchmarks/Pilot1/NT3
 Benchmarks/Pilot1/NT3$git clone https://github.com/szuananwar/NT3-GUI-System.git
